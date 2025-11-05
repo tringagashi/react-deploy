@@ -2,6 +2,9 @@
 
 A simple and elegant **React.js web application** created to learn and demonstrate **deployment** on platforms like **Vercel** and **Netlify**.
 
+🧑‍🏫 This project was created during a **Full-Stack Development training program** with mentor guidance to practice real-world web development concepts using **React.js**, **HTML**, **CSS**, and **JavaScript**.
+
+
 ---
 
 ## 🚀 Project Overview
